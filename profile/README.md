@@ -1,5 +1,22 @@
 
+<table align="center">
+    <tr>
+        <td>
+            <span align="start">
+                <h2>We are</h2>
+                <h1><b>HACK ELITE+<b></h1>
+                <h4>turning ideas into reality</h4>
+            </span>
+        </td>
+        <td>
+            <img src="https://github.com/hack-elite-plus/.github/blob/main/profile/sun.gif" width=400>
+        </td>
+    </tr>
+</table>
 
+<br/>
+<br/>
+ 
 # **Welcome🙏**
 
 ### Welcome to Hack Elite Plus, a team of talented and driven individuals dedicated to solving problems and driving innovation. 
@@ -11,16 +28,16 @@
 <br/>
 
 # **Our Configuration🧩**
-
+ 
 ```javascript
 const config = {
     name: "Hack Elite +",
     members: [
         "Hasitha🤗",
-        "malhari😎",
+        "Malhari😎",
         "Vinod🤪",
         "Anuradha😁",
-        "shiromi😊"
+        "Shiromi😊"
     ],
     company: "Nimbus Venture",
     technologies_used: [
@@ -32,4 +49,3 @@ const config = {
     ]
 }
 ```
-
