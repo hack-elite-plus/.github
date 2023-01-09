@@ -9,7 +9,7 @@
             </span>
         </td>
         <td>
-            <img src="https://github.com/hack-elite-plus/.github/blob/main/profile/sun.gif" width=400>
+            <img src="https://github.com/hack-elite-plus/.github-private/blob/main/profile/sun.gif" width=400>
         </td>
     </tr>
 </table>
