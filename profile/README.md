@@ -32,6 +32,7 @@
 ```javascript
 const config = {
     name: "Hack Elite +",
+    group_number: 31,
     members: [
         "Hasitha🤗",
         "Malhari😎",
