@@ -45,8 +45,8 @@ const config = {
         "react",
         "react native",
         "mysql",
-        "nodejs",
-        "express"
+        "java",
+        "springboot"
     ]
 }
 ```
